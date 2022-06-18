@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">FAST</string>
+    <string name="launch_single">Automatikus Végrehajtás</string>
+    <string name="settings">Beállítások</string>
+    <string name="share">Megosztás</string>
+    <string name="also_use_the_package_name_for_searching">Keresés a csomag nevében is</string>
+    <string name="search_in_package">Keresés a teljes csomagnévben</string>
+    <string name="auto_launch_if_only_one_app_left">Automatikus indítás pontosan egy eredménynél</string>
+    <string name="open_in_for_all">Nyissa meg a %s-t az összes</string>
+    <string name="even_if_installed_another_way">Még akkor is, ha más módon telepítették</string>
+    <string name="application_details">Alkalmazásinformáció</string>
+    <string name="uninstall">Eltávolítás</string>
+    <string name="open_in">Nyissa meg a</string>
+    <string name="open_as_notification">Megnyitás értesítésként</string>
+    <string name="query_hint">Keresés a</string>
+    <string name="text_only">Csak szöveg</string>
+    <string name="show_no_icons_pure_text">Képek nélkül - csak szöveg</string>
+    <string name="max_text_lines">Maximális szövegsorok</string>
+    <string name="how_much_text_you_want">Mennyi szöveg lehet?</string>
+    <string name="create_shortcut">Parancsikon létrehozása</string>
+    <string name="icon_size">Ikonméret</string>
+    <string name="how_big_icons">Mekkorák legyenek az ikonok?</string>
+    <string-array name="sizes">
+        <item>kicsi</item>
+        <item>közepes</item>
+        <item>nagy</item>
+        <item>hatalmas</item>
+    </string-array>
+
+    <string-array name="themes">
+        <item>sötét</item>
+        <item>világos</item>
+        <item>átlátszó sötét</item>
+        <item>átlátszó világos</item>
+    </string-array>
+
+    <string name="theme">Megjelenés</string>
+    <string name="choose_your_look">Hogyan kell kinéznie a FAST-nak?</string>
+    <string name="sort">Rendezés</string>
+    <string name="sort_decr">Hogyan kell rendezni az alkalmazásokat?</string>
+    <string name="convert_umlauts">Umlautok átalakítása</string>
+    <string name="convert_umlauts_descr">ae zu ä; oe zu ö; ss zu ß; ue zu ü</string>
+    <string name="allow_gap_search">Engedélyezze a szóközkeresést</string>
+
+    <string-array name="sort_orders">
+        <item>Rendezetlen</item>
+        <item>ABC sorrend</item>
+        <item>Használat</item>
+    </string-array>
+</resources>
